@@ -21,11 +21,11 @@
 ---
 
 ## Experiments
-<img width="743" height="230" alt="image" src="https://github.com/user-attachments/assets/ae1e0d17-8179-4547-a307-6d79bfe912f9" />
-1. 메타데이터만 활용  
-2. 메타데이터 + 해시태그  
-3. 가사 전처리 기반 추천  
-4. 가사 임베딩(KoBERT) 기반 추천  
+<img width="743" height="230" alt="image" src="https://github.com/user-attachments/assets/ae1e0d17-8179-4547-a307-6d79bfe912f9" /></br>
+1. 메타데이터만 활용  </br>
+2. 메타데이터 + 해시태그  </br>
+3. 가사 전처리 기반 추천  </br>
+4. 가사 임베딩(KoBERT) 기반 추천 </br> 
 
 ---
 
