@@ -1,6 +1,6 @@
 # LyriRec
-가사 기반 음악 추천 시스템</br>
--> 노래 **가사 정보**를 활용하여 기존 메타데이터 중심 추천 방식보다 더 세밀한 음악 추천을 제공합니다.
+### 가사 기반 음악 추천 시스템 LyriRec</br>
+-> 노래 **가사 정보**를 활용하여 기존 메타데이터 중심 추천 방식보다 더 세밀한 음악 추천을 제공합니다.</br>
 [LyriRec_proposal.pdf](https://github.com/user-attachments/files/23700722/LyriRec_proposal.pdf)
 
 ---
